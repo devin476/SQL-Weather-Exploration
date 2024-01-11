@@ -1,4 +1,4 @@
-# SQLAlchemy Challenge - Climate Analysis and Exploration
+# SQLAlchemy - Climate Analysis and Exploration
 
 ## Part 1: Climate Analysis and Data Exploration
 
